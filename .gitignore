@@ -1,0 +1,18 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+~$hy_process.pptx
+~$t_study_record.docx
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My configurations:
+db.ini
+deploy_key_rsa
